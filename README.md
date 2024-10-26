@@ -1,5 +1,8 @@
 # Real Estate NFT DApp
 
+![Blank diagram](https://github.com/user-attachments/assets/c528039f-532b-45ba-a6e3-b75e744d2f44)
+
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
